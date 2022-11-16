@@ -9,4 +9,4 @@ link: https://rdr-it.com/en/windows-server-2022-installation-of-an-active-direct
 ## Windows 10 Client
 
 
-# Client configuration
+## Client configuration
