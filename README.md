@@ -7,6 +7,8 @@ link: https://rdr-it.com/en/windows-server-2022-installation-of-an-active-direct
 
 bleach.local // TYBW@2022
 
+jordan // example#432
+
 ## Windows 10 Client
 
 
