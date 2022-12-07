@@ -9,6 +9,9 @@ bleach.local // TYBW@2022
 
 jordan // example#432
 
+
+Gpo setup link: https://www.it-connect.fr/chapitres/comment-creer-sa-premiere-gpo/
+
 ## Windows 10 Client
 
 
