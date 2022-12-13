@@ -16,3 +16,9 @@ Gpo setup link: https://www.it-connect.fr/chapitres/comment-creer-sa-premiere-gp
 
 
 ## Client configuration
+
+
+
+#GPO
+#Domaine enfant
+#Relation probabtion inter-entreprise
